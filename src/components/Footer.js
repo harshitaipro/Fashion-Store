@@ -150,7 +150,7 @@ const Footer = () => {
 
       <div className="flex justify-between h-10 m-6 tracking-tight">
         <div className="text-sm text-slate-600">
-          <p>©Developed by Shubhanshu Rao & Saket Singh Developers 2023</p>
+          <p>©Developed by Harshit Tiwari 2023</p>
         </div>
         <div className="text-sm text-slate-600 cursor-pointer">
           <p>

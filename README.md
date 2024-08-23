@@ -133,15 +133,15 @@ Follow me:
 - [GitHub](https://github.com/shubhanshurav)
 - [LinkedIn](https://www.linkedin.com/in/shubhanshu-rao-052320208/)
 
-#### Saket Singh
+#### Harshit Tiwari
 
 <p>
-  <img src="https://github.com/shubhanshurav/Apna-Fashion-Store/assets/87806305/29769d6e-1b75-44ea-8651-a6d522e08ffb" alt="Saket Singh" width="150" height="150">
+  <img src="https://github.com/shubhanshurav/Apna-Fashion-Store/assets/87806305/29769d6e-1b75-44ea-8651-a6d522e08ffb" alt="Harshit" width="150" height="150">
 </p>
 
 Follow me:
-- [GitHub](https://github.com/saketsingh120)
-- [LinkedIn](https://www.linkedin.com/in/saket-singh-810824240/)
+- [GitHub()](https://github.com/harshitaipro)
+- [LinkedIn](https://www.linkedin.com/in/harshit-tiwari-00b0b8204)
 
 
 

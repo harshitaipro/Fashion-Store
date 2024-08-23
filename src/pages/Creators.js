@@ -14,23 +14,23 @@ const Creators = () => {
         <div className="grid lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 w-[50%] m-auto gap-10">
           <div className="border-2 border-gray-300 p-3 rounded-xl m-auto bg-slate-100  px-10 py-10">
             <img
-              src="/assets/Saketimg.jpeg"
+              src="/assets/Harshit.jpg"
               alt="deve"
               className="object-cover rounded-full border-4 border-blue-700 Creators p-1"
             />
             <p className="flex justify-center items-center text-[23px] text-rose-950 font-semibold font-chakra-petch uppercase m-auto py-3">
-            <MdVerified className='text-blue-700 ' /> <span className='pl-1'>Saket Singh </span> 
+            <MdVerified className='text-blue-700 ' /> <span className='pl-1'>Harshit Tiwari </span> 
             </p>
             <p className='text-center text-gray-800 font-light text-[15px]'>MERN Developer</p>
             <div className="flex justify-center gap-6 m-2 items-center">
-              <a href="https://www.linkedin.com/in/saket-singh-810824240">
+              <a href="https://www.linkedin.com/in/harshit-tiwari-00b0b8204/">
                 <img
                   src="/assets/linkedin-img.png"
                   alt="Linkedin"
                   className="w-[40px]"
                 />
               </a>
-              <a href="https://github.com/SAKETSINGH120">
+              <a href="https://github.com/harshitaipro">
                 <img
                   src="/assets/GitHub-img.png"
                   alt="Github"
