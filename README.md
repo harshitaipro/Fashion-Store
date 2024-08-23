@@ -94,16 +94,6 @@ Certainly! Here are the explanations for contributing guidelines and licensing f
 
 We welcome contributions from the community to improve and enhance the Apna Fashion Store project. If you would like to contribute, please follow these guidelines:
 
-### Submitting Issues
-
-If you encounter any issues, bugs, or have feature requests, please submit them through the project's [issue tracker](https://github.com/shubhanshurav/Apna-FAshion-Store/issues).
-
-When submitting issues, provide detailed information, including:
-
-- A clear and descriptive title.
-- A detailed description of the issue or feature request.
-- Steps to reproduce the issue (if applicable).
-- Screenshots or code snippets that help illustrate the problem (if applicable).
 
 ### Pull Requests
 
@@ -121,17 +111,8 @@ Your pull request will be reviewed by the project maintainers. Please be patient
 
 Thank you for considering contributing to Apna Fashion Store, and we appreciate your support!
 
-### 8. Project Admins <a name="project-admins"></a>
+### 8. Project Admin <a name="project-admins"></a>
 
-#### Shubhanshu Rao
-
-<p>
-  <img src="https://github.com/shubhanshurav/Apna-Fashion-Store/assets/87806305/caa94905-3bf8-4e54-9aec-1125401d3b14" alt="Shubhanshu Rao" width="150" height="150">
-</p>
-
-Follow me:
-- [GitHub](https://github.com/shubhanshurav)
-- [LinkedIn](https://www.linkedin.com/in/shubhanshu-rao-052320208/)
 
 #### Harshit Tiwari
 
