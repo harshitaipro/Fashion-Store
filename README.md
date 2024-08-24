@@ -45,7 +45,8 @@ Explain how to install and set up the project locally. Include steps for setting
 
 ```bash
 # Clone the repository
-git clone https://github.com/shubhanshurav/Apna-FAshion-Store.git
+
+git clone  https://github.com/harshitaipro/Fashion-Store.git
 
 # Navigate to the project directory
 cd your-repo
@@ -115,10 +116,6 @@ Thank you for considering contributing to Apna Fashion Store, and we appreciate 
 
 
 #### Harshit Tiwari
-
-<p>
-  <img src="https://github.com/shubhanshurav/Apna-Fashion-Store/assets/87806305/29769d6e-1b75-44ea-8651-a6d522e08ffb" alt="Harshit" width="150" height="150">
-</p>
 
 Follow me:
 - [GitHub()](https://github.com/harshitaipro)
